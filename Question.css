@@ -1,0 +1,13 @@
+body{
+    background-color:lavender;
+    text-align: center;
+    justify-content: center;
+    font-family:monospace;
+    color:darkmagenta;
+    
+
+
+}
+div{
+    border:1px solid black;
+}
